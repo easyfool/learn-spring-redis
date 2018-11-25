@@ -1,2 +1,2 @@
-# learng-learn-redis
+# learn-spring-redis
 springboot
