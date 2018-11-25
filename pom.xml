@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.wangfengbabe.learn</groupId>
-  <artifactId>learn-redis</artifactId>
+  <artifactId>learn-spring-redis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 

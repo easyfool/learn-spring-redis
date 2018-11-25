@@ -1,4 +1,4 @@
-package com.wangfengbabe.learn.learnredis.config;
+package com.wangfengbabe.learn.redis.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;

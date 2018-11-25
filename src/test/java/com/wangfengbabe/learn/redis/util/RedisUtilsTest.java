@@ -1,4 +1,4 @@
-package com.wangfengbabe.learn.learnredis.util;
+package com.wangfengbabe.learn.redis.util;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -13,9 +13,13 @@ public class RedisUtilsTest {
     @Autowired
     private RedisUtils redisUtils;
 
+    /**
+     * redis-cli  --raw
+     * 客户端汉字查看
+     */
     @Test
     public void testSetKey() {
-        boolean set = redisUtils.set("key1", "mytestkey1");
+        boolean set = redisUtils.set("key1", "赵池");
         System.out.println(set);
     }
 

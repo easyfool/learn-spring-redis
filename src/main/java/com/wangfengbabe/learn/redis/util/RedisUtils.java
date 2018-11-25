@@ -1,4 +1,4 @@
-package com.wangfengbabe.learn.learnredis.util;
+package com.wangfengbabe.learn.redis.util;
 
 import java.util.List;
 import java.util.Map;
